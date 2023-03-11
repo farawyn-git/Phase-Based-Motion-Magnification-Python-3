@@ -19,7 +19,7 @@ The objective of this project was to adapt the code from https://github.com/jvge
      
 You have to exchange the file filterbank.py in the folder
 
-   ./venv/Lib/site-packages/perceptual
+    ./venv/Lib/site-packages/perceptual
 
 ### Example video
 
