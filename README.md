@@ -7,7 +7,7 @@ The objective of this project was to adapt the code from https://github.com/jvge
 ### Used Modules   
 
   - numpy 1.24.2
-  - openvc-python 4.7.0.72
+  - opencv-python 4.7.0.72
   - perceptual 0.1
   - scipy 1.10.1
 
