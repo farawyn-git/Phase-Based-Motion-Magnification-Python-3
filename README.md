@@ -1,4 +1,4 @@
-# Phase-Based-Motion-Magnification-Python-3.10
+# Phase-Based-Motion-Magnification-Python-3
 Phase based motion magnification based on https://github.com/jvgemert/pbMoMa
 adapted for python 3.10
 
