@@ -18,6 +18,7 @@ The objective of this project was to adapt the code from https://github.com/jvge
     media/guitar.mp4        # Example video
      
 You have to exchange the file filterbank.py in the following folder (depending on your setup):
+
     ./venv/Lib/site-packages/perceptual
 
 ### Example video
