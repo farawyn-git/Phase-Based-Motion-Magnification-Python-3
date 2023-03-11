@@ -17,6 +17,10 @@ The objective of this project was to adapt the code from https://github.com/jvge
     pyramid2arr.py          # Help class to convert a pyramid to a 1d array
     media/guitar.mp4        # Example video
      
+You have to exchange the file filterbank.py in the folder
+
+   ./venv/Lib/site-packages/perceptual
+
 ### Example video
 
     ./media/guitar.mp4
