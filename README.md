@@ -1,4 +1,4 @@
-# Phase-Based-Motion-Magnification-Python-3
+# Phase Based Motion Magnification Python 3
 
 Phase based motion magnification is based on the paper (http://people.csail.mit.edu/mrub/papers/phasevid-siggraph13.pdf) written by Neal Wadhwa, Michael Rubinstein, Frédo Durand, William T. Freeman, ACM Transactions on Graphics, Volume 32, Number 4 (Proc. SIGGRAPH), 2013. [project](http://people.csail.mit.edu/nwadhwa/phase-video/). 
 
