@@ -1,7 +1,7 @@
 # Phase-Based-Motion-Magnification-Python-3
+
 Phase based motion magnification is based on https://github.com/jvgemert/pbMoMa
 the code has been adapted to be able to run in python 3.10
-
 
 ### Used Modules   
 
