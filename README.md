@@ -1,7 +1,8 @@
 # Phase-Based-Motion-Magnification-Python-3
 
-Phase based motion magnification is based on https://github.com/jvgemert/pbMoMa
-the code has been adapted to be able to run in python 3.10
+Phase based motion magnification is based on the paper (http://people.csail.mit.edu/mrub/papers/phasevid-siggraph13.pdf) written by Neal Wadhwa, Michael Rubinstein, Frédo Durand, William T. Freeman, ACM Transactions on Graphics, Volume 32, Number 4 (Proc. SIGGRAPH), 2013. [project](http://people.csail.mit.edu/nwadhwa/phase-video/). 
+
+The objective of this project was to adapt the code from https://github.com/jvgemert/pbMoMa in order to be able to run in pythoin 3.10
 
 ### Used Modules   
 
