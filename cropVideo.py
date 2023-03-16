@@ -40,10 +40,9 @@ while(cap.isOpened()):
         #if 15 <= cnt <= 90:
         #    out.write(crop_frame)
 
-        # I see the answer now. Here you save all the video
         out.write(crop_frame)
 
-        # Just to see the video in real time
+        # Show the video in real time
         cv2.imshow('frame',frame)
         cv2.imshow('croped',crop_frame)
 
